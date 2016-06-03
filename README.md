@@ -1,5 +1,10 @@
 # Introduction to PyData stack
 
+### https://github.com/sketchytechky/PyData-Intro/blob/master/pydata_intro.ipynb
+
+
+## VanPyDay 2016
+
 * http://www.vanpyday.com/en/latest/
 
 * http://www.vanpyday.com/en/latest/2016/lau.html#lau
