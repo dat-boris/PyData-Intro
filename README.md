@@ -1,6 +1,8 @@
 # Introduction to PyData stack
 
-### https://github.com/sketchytechky/PyData-Intro/blob/master/pydata_intro.ipynb
+### IPython notebook: https://github.com/sketchytechky/PyData-Intro/blob/master/pydata_intro.ipynb
+
+### Sign up for some more Vancouver PyData goodness: http://bit.do/pydatavan
 
 
 ## VanPyDay 2016
